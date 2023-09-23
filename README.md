@@ -17,13 +17,13 @@ To run the Laravel application locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/indahwahyuandillah23/Technical-Test.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo
+   cd Technical-Test
    ```
 
 3. Install the application dependencies:
@@ -67,13 +67,13 @@ Alternatively, you can run this Laravel application in a Docker container. Make 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://indahwahyuandillah23/Technical-Test.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo
+   cd Technical-Test
    ```
 
 3. Build the Docker image:
